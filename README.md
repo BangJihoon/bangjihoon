@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 <!--
+나는 좋은 자바 서버 개발자가 될 것이다.
+#### Experience
+- RHEL, Linux, AWS ,Windows, Oracle 서버 프로비저닝 업무 수행.
+- HTML5,CSS,JSP,JS,JAVA 기반 웹 마케팅 솔루션 풀스택 개발 업무 수행.
+- .Net, C#기반의 솔루션 고도화 작업 수행.
+- Oracle, MySQL, Mongo,PostgreSQL 등의 DBMS에서 DW,DM, OLAP ETL 작업.
+-->
+<!--
 **jihoon289/jihoon289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
