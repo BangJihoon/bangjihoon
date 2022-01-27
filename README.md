@@ -1,9 +1,8 @@
 <!-- 메인 프로필 로고 -->
 <p align="center"><a href="https://bangbangu4.github.io"><img width="80%" src="https://user-images.githubusercontent.com/26866859/151282711-3c5a8808-c9e1-4693-8f87-651871834fac.png" /></a></p>
 
-
-<a href="https://bangbangu4.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bangbangu4&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> 
-<a href="https://bangbangu4.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangbangu4&layout=compact&theme=buefy&hide_border=true" /></a>
+| <a href="https://bangbangu4.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bangbangu4&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://bangbangu4.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangbangu4&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!-- SNS 링크 --> 
 <h3>Blog & SNS</h3>
