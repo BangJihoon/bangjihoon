@@ -1,7 +1,7 @@
 <!-- 메인 프로필 로고 -->
 <p align="center">
     <a href="https://bangbangu4.github.io" target='_blank'>
-           <img width="80%" src="https://user-images.githubusercontent.com/26866859/151282711-3c5a8808-c9e1-4693-8f87-651871834fac.png" />
+           <img width="80%" src="https://user-images.githubusercontent.com/26866859/151282711-3c5a8808-c9e1-4693-8f87-651871834fac.png" width='100%'/>
     </a>
 </p>
 
