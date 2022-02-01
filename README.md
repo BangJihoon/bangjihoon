@@ -10,6 +10,7 @@
 | ------------- | ------------- |
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bangbangu4&theme=react-white)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- SNS 링크 --> 
 <h3>Blog & SNS</h3>
     <p>
