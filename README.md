@@ -9,7 +9,7 @@
 | <a href="https://bangbangu4.github.io" target='_blank'><img align="center" src="https://github-readme-stats.vercel.app/api?username=bangbangu4&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://bangbangu4.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangbangu4&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bangbangu4&theme=react-white)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bangbangu4&theme=react-white)]()
 
 <!-- SNS 링크 --> 
 <h3>Blog & SNS</h3>
