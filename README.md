@@ -9,6 +9,7 @@
 | <a href="https://bangbangu4.github.io" target='_blank'><img align="center" src="https://github-readme-stats.vercel.app/api?username=bangbangu4&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://bangbangu4.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangbangu4&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bangbangu4&theme=react-white)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- SNS 링크 --> 
 <h3>Blog & SNS</h3>
     <p>
@@ -22,7 +23,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/h43ro/"/>
       </a>-->
     </p>
-    
+
 <!-- 트로피 --> 
 <!--
   [![trophy](https://github-profile-trophy.vercel.app/?username=bangbangu4&theme=chalk&row=1&column=6&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
