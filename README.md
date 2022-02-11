@@ -1,4 +1,5 @@
 <!-- 메인 프로필 로고 -->
+<div align="center">↓ Click here ↓</div>
 <p align="center">
     <a href="https://bangjihoon.github.io" target='_blank'>
            <img width="80%" src="https://user-images.githubusercontent.com/26866859/151282711-3c5a8808-c9e1-4693-8f87-651871834fac.png" width='100%'/>
