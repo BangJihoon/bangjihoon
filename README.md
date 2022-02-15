@@ -45,6 +45,6 @@
   <li>📝 <b>블로깅 리뷰 스터디</b> 2022. 02 ~ ing </li>
   <li>💯 <b>백준만점 스터디</b> 2022. 02 ~ ing</li>
   <li>📚 <b>이펙티브 자바 스터디</b> 2022. 01 ~ ing </li>
-  <li>🌐 <b>Spring Boot 스터디</b> 2021. 11 ~ ing </li>
+  <li>🌐 <b>Java Spring Boot 스터디</b> 2021. 11 ~ ing </li>
   <li>🏆 <b>알고리즈머 3기</b> 2021. 11 ~ ing </li>
 </ul>
