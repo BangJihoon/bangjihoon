@@ -40,7 +40,7 @@
     
 <h4>✔️ 스터디</h4>
 <ul>
-  <li>💻 <b>Kotlin Spring Boot Study </b> 2022. 02 ~ 2022.04 (예정) </li>
+  <li>🔥 <b>Kotlin Spring Boot Study </b> 2022. 02 ~ 2022.04 (예정) </li>
   <li>💻 <b>플러너 4기</b> 2022. 03 ~ 2022.04 (예정) </li>
   <li>📝 <b>블로깅 리뷰 스터디</b> 2022. 02 ~ ing </li>
   <li>💯 <b>백준만점 스터디</b> 2022. 02 ~ ing</li>
