@@ -37,13 +37,47 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangbangu4&repo=bangbangu4)](https://github.com/bangbangu4/bangbangu4)
 -->
 
-    
+<!--
 <h4>✔️ 스터디</h4>
 <ul>
-  <li>💻 <b>플러너 4기</b> 2022. 03 ~ 2022.04 (예정) </li>
+    <li>💻 <b>플러너 4기</b>              2022. 03 ~ 2022.04 (예정)</li>
   <li>🔥 <b>Kotlin Spring Boot Study </b> 2022. 02 ~ 2022.04 (예정) </li>
-  <li>💯 <b>백준만점 스터디</b> 2022. 02 ~ ing</li>
-  <li>📚 <b>이펙티브 자바 스터디</b> 2022. 01 ~ 2022.03 </li>
-  <li>🌐 <b>Java Spring Boot 스터디</b> 2021. 11 ~ 2022.02 </li>
-  <li>🏆 <b>알고리즈머 3기</b> 2021. 11 ~ ing </li>
+  <li>💯 <b>백준만점 스터디</b>            2022. 02 ~ ing</li>
+  <li>📚 <b>이펙티브 자바 스터디</b>        2022. 01 ~ 2022.03 </li>
+  <li>🌐 <b>Java Spring Boot 스터디</b>    2021. 11 ~ 2022.02 </li>
+  <li>🏆 <b>알고리즈머 3기</b>              2021. 11 ~ ing </li>
 </ul>
+-->
+
+    
+<h4>✔️ 스터디</h4>
+<table >
+  <tr>
+      <td>💻 <b>플러너 4기</b> </td> 
+      <td> 2022. 03 ~ 2022.04 (예정) </td>
+  </tr>
+  <tr>
+    <td>🔥 <b>Kotlin Spring Boot Study </b> </td>
+    <td> 2022. 02 ~ 2022.04 (예정) </td>
+  </tr>
+  <tr>
+    <td>💯 <b>백준만점 스터디</b></td>
+    <td>2022. 02 ~ ing</td>
+  </tr>
+  <tr>
+    <td>📚 <b>이펙티브 자바 스터디</b> </td>
+    <td> 2022. 01 ~ 2022.03 </td>
+  </tr>
+  <tr>
+      <td>🌐 <b>Java Spring Boot 스터디</b></td>
+      <td> 2021. 11 ~ 2022.02 </td>
+  </tr>
+  <tr>
+    <td>🏆 <b>알고리즈머 3기</b></td>
+    <td> 2021. 11 ~ ing </td>
+  </tr>
+</table>
+
+
+
+
