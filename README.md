@@ -10,7 +10,6 @@
 | <a href="https://bangjihoon.github.io" target='_blank'><img align="center" src="https://github-readme-stats.vercel.app/api?username=bangjihoon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://bangjihoon.github.io" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangjihoon&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bangjihoon&theme=react-white)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- SNS 링크 --> 
 <h4>✔️ Blog & SNS</h4>
