@@ -45,7 +45,7 @@
 <h4>✔️ 스터디</h4>
 <ul>
   <li>💻 <b>플러너 4기</b>                2022. 03 ~ 2022.04 (예정)</li>
-  <li>🔥 <b>Kotlin Spring Boot Study </b> 2022. 02 ~ 2022.04 (예정) </li>
+  <li>🔥 <b>Kotlin Spring Boot Study </b> 2022. 02 ~ 2022.04 (불가) </li>
   <li>💯 <b>백준만점 스터디</b>            2022. 02 ~ ing</li>
   <li>📚 <b>이펙티브 자바 스터디</b>        2022. 01 ~ 2022.03 </li>
   <li>🌐 <b>Java Spring Boot 스터디</b>    2021. 11 ~ 2022.02 </li>
