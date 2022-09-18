@@ -17,6 +17,9 @@
 <!-- SNS 링크 --> 
 <h4>✔️ Blog & SNS</h4>
     <p>
+      <a href="https://bangjihoon.github.io/">
+         <img src="https://img.shields.io/badge/Portfolio-307cf4?style=flat-square&logo=FurryNetwork&logoColor=white&link=https://bangjihoon.github.io/"/>
+      </a>&nbsp      
       <a href="https://bangu4.tistory.com/">
          <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://bangu4.tistory.com/"/>
       </a>&nbsp
