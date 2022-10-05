@@ -44,7 +44,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bangbangu4&repo=bangbangu4)](https://github.com/bangbangu4/bangbangu4)
 -->
 
-
+<!--
 <h4>✔️ 2022 스터디</h4>
 
 
@@ -58,7 +58,7 @@
 |📚 <b>이펙티브 자바 </b>|Effective Java 3/E 독서토론 |2022. 01 ~ 2022.03 (3M) |
 |🌐 <b>Java Spring Boot </b>|김영한님 커리큘럼 (입문, 기본편) |2021. 11 ~ 2022.02 (3M) |
 |🏆 <b>알고리즈머 3기</b>|프로그래머스 고득점 Kit 풀이 리뷰 |2021. 11 ~ 2022.05 (6M) |
-
+-->
 
 <!--
 
