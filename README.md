@@ -8,7 +8,7 @@
 
 
 <!-- git stats -->
-| <a href="https://bangjihoon.github.io" target='_blank'><img align="center" src="https://github-readme-stats.vercel.app/api?username=bangjihoon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>|[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Dart,Python)](https://github.com/bangjihoon)|
+| <a href="https://bangjihoon.github.io" target='_blank'><img align="center" src="https://github-readme-stats.vercel.app/api?username=bangjihoon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>|[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Dart,Python)](https://bangjihoon.github.io)|
 | ------------- | ------------- |
 
 
